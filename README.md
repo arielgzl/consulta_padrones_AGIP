@@ -1,2 +1,2 @@
-# consulta_padrones_ARBA
-APP para consulta las alicuotas de Retenciones y Percepciones de ARBA
+# consulta_padrones_AGIP
+APP para consulta las alicuotas de Retenciones y Percepciones de AGIP
